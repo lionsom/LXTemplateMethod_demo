@@ -1,5 +1,5 @@
-# LXTemplateMethod_demo-
-设计模式---模板方法模式
+# LXTemplateMethod_demo
+# 设计模式---模板方法模式
 
 
 ## LXTemplateMethod_demo 是精简版本，仅仅是介绍了模板方法模式的一个例子；<br>
